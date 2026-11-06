@@ -34,7 +34,7 @@ No conformance certification program currently exists. Implementations must not 
 
 ## Intellectual property and legal limits
 
-The specification text is intended to be licensed under CC BY 4.0 as scoped in [standards/LICENSES.md](standards/LICENSES.md). This does not license ASTON OS implementation code, trademarks, logos, patents, trade secrets or third-party materials.
+The specification text is intended to be licensed under CC BY 4.0 as scoped in [LICENSING.md](LICENSING.md). This does not license ASTON OS implementation code, trademarks, logos, patents, trade secrets or third-party materials.
 
 Publication and cryptographic timestamping can help establish evidence that a particular artifact existed. They do not automatically create patent rights, guarantee ownership, prevent independent development or guarantee a legal outcome. See Sections 13–14 of the specification and obtain jurisdiction-specific legal advice.
 
