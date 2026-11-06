@@ -24,6 +24,7 @@ ARP-1 is a proposal for technical review. It does not claim certification, regul
 
 - [Specification](ASTON_RISK_PROTOCOL.md)
 - [Licensing scope](LICENSING.md)
+- [Publication provenance](PROVENANCE.md)
 - [SHA-256 manifest](SHA256SUMS) records checksums for the published specification, README and licensing notice.
 
 ## Status and contributions
