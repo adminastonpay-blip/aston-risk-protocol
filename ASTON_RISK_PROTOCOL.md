@@ -5,7 +5,7 @@ author: "Hector Zapata / ASTON OS Initiative"
 status: "Standard Proposal"
 category: "Decision Risk Fabric & Agent Governance"
 date: "2026-11-06"
-license: "CC-BY-4.0 (specification text); see standards/LICENSES.md"
+license: "CC-BY-4.0 (specification text); see LICENSING.md"
 ---
 
 # Aston Risk Protocol (ARP-1)
