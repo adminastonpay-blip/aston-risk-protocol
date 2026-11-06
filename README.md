@@ -25,7 +25,7 @@ ARP-1 is a proposal for technical review. It does not claim certification, regul
 - [Specification](ASTON_RISK_PROTOCOL.md)
 - [Licensing scope](LICENSING.md)
 - [Publication provenance](PROVENANCE.md)
-- [SHA-256 manifest](SHA256SUMS) records checksums for the published specification, README and licensing notice.
+- [SHA-256 manifest](SHA256SUMS.txt) records checksums for the four published files: README, specification, licensing notice and provenance.
 
 ## Status and contributions
 
@@ -41,4 +41,4 @@ Publication and cryptographic timestamping can help establish evidence that a pa
 
 ## Integrity
 
-SHA-256 checksums are published in [SHA256SUMS](SHA256SUMS). The author signature and independent timestamp proof have not yet been generated. A checksum alone is not an author signature or trusted timestamp.
+SHA-256 checksums are published in [SHA256SUMS.txt](SHA256SUMS.txt). The author signature and independent timestamp proof have not yet been generated. A checksum alone is not an author signature or trusted timestamp.
