@@ -12,7 +12,7 @@
 
 The values below were calculated over the exact UTF-8 text returned by GitHub for the named files and then re-fetched from the public main branch to verify the manifest entries.
 
-See [SHA256SUMS](SHA256SUMS). The manifest was checked against the public file contents and all three entries matched at verification time.
+See [SHA256SUMS.txt](SHA256SUMS.txt). The manifest contains four entries (README.md, ASTON_RISK_PROTOCOL.md, LICENSING.md and PROVENANCE.md). Each entry must match the exact UTF-8 file contents on the same commit; the manifest itself is intentionally excluded to avoid a self-referential checksum.
 
 ## Separate controls not yet completed
 
